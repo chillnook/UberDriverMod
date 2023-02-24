@@ -1,5 +1,5 @@
 # Uber Driver Mod
-Official open source respository for the Uber Driver Mod [REVAMPED] on GTA5 Mods.
+Official open source respository for the [Uber Driver Mod [REVAMPED]](https://www.gta5-mods.com/scripts/uber-driver-revamped) on GTA5 Mods.
 
 # Required Mods
 * [LemonUI](https://github.com/LemonUIbyLemon/LemonUI/releases)
