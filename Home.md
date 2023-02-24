@@ -6,7 +6,10 @@ Official open source respository for the Uber Driver Mod [REVAMPED] on GTA5 Mods
 * [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/)
 * [ScriptHookVDotNet](https://github.com/crosire/scripthookvdotnet/releases)
 
-# Download the latest release
+# Download the latest stable release
+link
+
+# For Developers
 link
 
 # Important Notice
