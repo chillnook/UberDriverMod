@@ -7,7 +7,7 @@ Official open source respository for the [Uber Driver Mod [REVAMPED]](https://ww
 * [ScriptHookVDotNet](https://github.com/crosire/scripthookvdotnet/releases)
 
 # Download the latest stable release
-link
+[Download](https://www.gta5-mods.com/scripts/uber-driver-revamped/download/137418)
 
 # For Developers
 link
