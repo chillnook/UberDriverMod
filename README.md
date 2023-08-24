@@ -10,7 +10,7 @@ Official open source respository for the [Uber Driver Mod [REVAMPED]](https://ww
 [Download](https://github.com/chillnook/UberDriverMod/releases)
 
 # For Developers
-[Download](https://github.com/chillnook/UberDriverMod/archive/refs/heads/main.zip)
+[Download](https://github.com/chillnook/UberDriverMod)
 
 # Forks
 Check out forks of the mod [here.](https://github.com/chillnook/UberDriverMod/forks)
