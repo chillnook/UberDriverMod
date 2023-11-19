@@ -1,5 +1,5 @@
 # Uber Driver Mod
-Official open source respository for the [Uber Driver Mod [REVAMPED]](https://www.gta5-mods.com/scripts/uber-driver-revamped) on GTA5 Mods.
+Official open source repository for the [Uber Driver Mod [REVAMPED]](https://www.gta5-mods.com/scripts/uber-driver-revamped) on GTA5 Mods.
 
 # Required Mods
 * [LemonUI](https://github.com/LemonUIbyLemon/LemonUI/releases)
@@ -10,11 +10,11 @@ Official open source respository for the [Uber Driver Mod [REVAMPED]](https://ww
 [Download](https://github.com/chillnook/UberDriverMod/releases)
 
 # For Developers
-[Download](https://github.com/chillnook/UberDriverMod)
+If you'd like to modify the code or create your own version of the mod, please clone the repository and open the project files in your IDE.
 
 # Forks
-Check out forks of the mod [here.](https://github.com/chillnook/UberDriverMod/forks)
+Check out the forks of the mod [here.](https://github.com/chillnook/UberDriverMod/forks)
 
 # Important Notice
 This mod is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by Uber. All product and company names are the registered trademarks of their
-original owners. If necessitated, a title alternation will ensue.
+original owners. If necessitated, a title alteration will ensue.
