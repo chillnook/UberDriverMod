@@ -9,7 +9,7 @@ Official open source repository for the [Uber Driver Mod [REVAMPED]](https://www
 * [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/)
 * [ScriptHookVDotNet](https://github.com/crosire/scripthookvdotnet/releases)
 
-# Download the latest stable release
+# Download the latest published release
 [Download](https://github.com/chillnook/UberDriverMod/releases)
 
 # For Developers
