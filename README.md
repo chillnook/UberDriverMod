@@ -1,3 +1,6 @@
+# NOTICE
+This repository is in active development and is not completed or ready for production.
+
 # Uber Driver Mod
 Official open source repository for the [Uber Driver Mod [REVAMPED]](https://www.gta5-mods.com/scripts/uber-driver-revamped) on GTA5 Mods.
 
