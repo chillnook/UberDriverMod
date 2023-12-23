@@ -10,7 +10,7 @@ Official open source repository for the [Uber Driver Mod [REVAMPED]](https://www
 [Download](https://github.com/chillnook/UberDriverMod/releases)
 
 # For Developers
-If you are looking to modify version ALPHA 0.3.1 (current published release), please refer to [here.](https://github.com/chillnook/UberDriver_ALPHA_0.3.1)
+If you are looking to modify version **ALPHA** 0.3.1 (current published release), please refer to [here.](https://github.com/chillnook/UberDriver_ALPHA_0.3.1)
 
 If you'd like to modify the code or create your own version of the mod, please clone the repository and open the project files in your IDE.
 
